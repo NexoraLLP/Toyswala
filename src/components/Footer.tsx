@@ -4,7 +4,7 @@ import logo from "@/assets/logo.png";
 
 const PHONE_NUMBER = "+917990558862";
 const WHATSAPP_NUMBER = "917990558862";
-const EMAIL = "nexorabysurat@gmail.com";
+const EMAIL = "toyswalaaa@gmail.com";
 
 const Footer = () => {
   return (
