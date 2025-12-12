@@ -110,13 +110,13 @@ const FAQ = () => {
                   Need private assistance? Our team is ready to help you discreetly.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                  <a href="tel:+918200118646">
+                  <a href="tel:+917990558862">
                     <button className="px-6 py-3 rounded-lg font-semibold btn-call">
                       📞 Call Us
                     </button>
                   </a>
                   <a
-                    href="https://wa.me/918200118646"
+                    href="https://wa.me/917990558862"
                     target="_blank"
                     rel="noopener noreferrer"
                   >

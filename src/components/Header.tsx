@@ -3,8 +3,8 @@ import { Link, useLocation } from "react-router-dom";
 import { Menu, X, Phone, MessageCircle } from "lucide-react";
 import logo from "@/assets/logo.png";
 
-const PHONE_NUMBER = "+918200118646";
-const WHATSAPP_NUMBER = "918200118646";
+const PHONE_NUMBER = "+917990558862";
+const WHATSAPP_NUMBER = "917990558862";
 
 const navLinks = [
   { name: "Home", path: "/" },

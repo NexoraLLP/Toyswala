@@ -2,8 +2,8 @@ import { Link } from "react-router-dom";
 import { Phone, Mail, MapPin, MessageCircle } from "lucide-react";
 import logo from "@/assets/logo.png";
 
-const PHONE_NUMBER = "+918200118646";
-const WHATSAPP_NUMBER = "918200118646";
+const PHONE_NUMBER = "+917990558862";
+const WHATSAPP_NUMBER = "917990558862";
 const EMAIL = "nexorabysurat@gmail.com";
 
 const Footer = () => {

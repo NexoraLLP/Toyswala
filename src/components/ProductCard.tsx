@@ -1,8 +1,8 @@
 import { Phone, MessageCircle, Send } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
-const PHONE_NUMBER = "+918200118646";
-const WHATSAPP_NUMBER = "918200118646";
+const PHONE_NUMBER = "+917990558862";
+const WHATSAPP_NUMBER = "917990558862";
 
 interface ProductCardProps {
   id: number;

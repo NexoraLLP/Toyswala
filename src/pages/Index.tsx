@@ -158,13 +158,13 @@ const Index = () => {
                 questions – just fast, private service.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                <a href="tel:+918200118646">
+                <a href="tel:+917990558862">
                   <Button size="lg" className="btn-call px-8 w-full sm:w-auto">
                     📞 Call Now (Private)
                   </Button>
                 </a>
                 <a
-                  href="https://wa.me/918200118646"
+                  href="https://wa.me/917990558862"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

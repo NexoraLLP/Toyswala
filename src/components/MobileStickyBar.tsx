@@ -1,7 +1,7 @@
 import { Phone, MessageCircle } from "lucide-react";
 
-const PHONE_NUMBER = "+918200118646";
-const WHATSAPP_NUMBER = "918200118646";
+const PHONE_NUMBER = "+917990558862";
+const WHATSAPP_NUMBER = "917990558862";
 
 const MobileStickyBar = () => {
   return (

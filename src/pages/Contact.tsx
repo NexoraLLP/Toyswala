@@ -8,8 +8,8 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import MobileStickyBar from "@/components/MobileStickyBar";
 
-const PHONE_NUMBER = "+918200118646";
-const WHATSAPP_NUMBER = "918200118646";
+const PHONE_NUMBER = "+917990558862";
+const WHATSAPP_NUMBER = "917990558862";
 const EMAIL = "nexorabysurat@gmail.com";
 
 const Contact = () => {
